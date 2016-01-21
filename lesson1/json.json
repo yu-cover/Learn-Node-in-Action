@@ -1,0 +1,417 @@
+{
+        "score" : 17,
+        "desc" : "自主训练题型",
+        "title" : "自主训练题型",
+        "type" : 15,
+        "questionlist" : [{
+                "type" : 1,
+                "questionid" : 756756,
+                "title" : "单选题",
+                "item" : [{
+                        "link" : "",
+                        "title" : "选择题a"
+                    }, {
+                        "link" : "",
+                        "title" : "选择题b"
+                    }, {
+                        "link" : "",
+                        "title" : "选择题c"
+                    }, {
+                        "link" : "",
+                        "title" : "选择题d"
+                    }
+                ],
+                "score" : 2
+            }, {
+                "type" : 2,
+                "score" : 2,
+                "questionid" : 756755,
+                "item" : [{
+                        "link" : "",
+                        "title" : "A"
+                    }, {
+                        "link" : "",
+                        "title" : "B"
+                    }, {
+                        "title" : "C",
+                        "link" : ""
+                    }, {
+                        "link" : "",
+                        "title" : "D"
+                    }
+                ],
+                "title" : "多选题"
+            }, {
+                "type" : 3,
+                "title" : "填空题",
+                "score" : 2,
+                "questionid" : 756754
+            }, {
+                "item" : [{
+                        "title" : "排序题1",
+                        "link" : null
+                    }, {
+                        "title" : "排序题2",
+                        "link" : null
+                    }, {
+                        "link" : null,
+                        "title" : "排序题3"
+                    }, {
+                        "link" : null,
+                        "title" : "排序题4"
+                    }
+                ],
+                "title" : "排序题",
+                "score" : 4,
+                "questionid" : 756753,
+                "type" : 12
+            }, {
+                "questionid" : 756752,
+                "score" : 5,
+                "title" : "简答题",
+                "type" : 5
+            }, {
+                "score" : 2,
+                "title" : "判断题",
+                "type" : 4,
+                "questionid" : 756751
+            }
+        ],
+        "questionid" : 756757
+    }
+]
+{
+    "trainid": 142,
+    "progress": 0,
+    "content": [
+        {
+            "type": "rescource",
+            "id": 1497,
+            "title": "英国公开大学：10分钟英语史 [第2集] 诺曼人入侵",
+            "location": "resource/6820/449033/e5889a68-1c96-47ff-8b59-8c51ebc1eb37.mp4"
+        },
+        {
+            "type": "question",
+            "question": {
+                "questionid": 16949,
+                "desc": "<br>Choose the correct phrase to complete the memo below.<br>MEMO <br>From: RC <br>To: All Marketing staff <br>I    1                to announce that Peter Hamel, my Senior Assistant, has a new job in the company. He is leaving Vienna next week. <br>Peter is now Manager of our new office in Krakow and    2               to headquarters. He is     3               for the success of our work in Poland. His new  4                 are: <br>UM Poland<br>Slawkowska 163<br>31016 Krakow<br>Tel:   48124220033<br>Email: Peter_Hamel@unimedia.pl<br>We   5            Peter success in his new post. ",
+                "type": 11,
+                "title": "Writing",
+                "questionlist": [
+                    {
+                        "questionid": 16951,
+                        "title": "I                       to announce that Peter Hamel, my Senior Assistant, has a new job in the company.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "‘d want"
+                            },
+                            {
+                                "title": "like"
+                            },
+                            {
+                                "title": "‘m pleased"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 16953,
+                        "title": "Peter is now Manager of our new office in Krakow and                               to headquarters.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "communicates"
+                            },
+                            {
+                                "title": "reports"
+                            },
+                            {
+                                "title": "briefs"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 16955,
+                        "title": "He is                     for the success of our work in Poland.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "responsible"
+                            },
+                            {
+                                "title": "in charge"
+                            },
+                            {
+                                "title": "responsibility"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 16957,
+                        "title": "His new                 are:",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "changes"
+                            },
+                            {
+                                "title": "contact details"
+                            },
+                            {
+                                "title": "phone numbers"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 16959,
+                        "title": "We                Peter success in his new post.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "hope"
+                            },
+                            {
+                                "title": "send"
+                            },
+                            {
+                                "title": "wish"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "question",
+            "question": {
+                "questionid": 16949,
+                "desc": "<br>Choose the correct phrase to complete the memo below.<br>MEMO <br>From: RC <br>To: All Marketing staff <br>I    1                to announce that Peter Hamel, my Senior Assistant, has a new job in the company. He is leaving Vienna next week. <br>Peter is now Manager of our new office in Krakow and    2               to headquarters. He is     3               for the success of our work in Poland. His new  4                 are: <br>UM Poland<br>Slawkowska 163<br>31016 Krakow<br>Tel:   48124220033<br>Email: Peter_Hamel@unimedia.pl<br>We   5            Peter success in his new post. ",
+                "type": 11,
+                "title": "Writing",
+                "questionlist": [
+                    {
+                        "questionid": 16951,
+                        "title": "I                       to announce that Peter Hamel, my Senior Assistant, has a new job in the company.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "‘d want"
+                            },
+                            {
+                                "title": "like"
+                            },
+                            {
+                                "title": "‘m pleased"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 16953,
+                        "title": "Peter is now Manager of our new office in Krakow and                               to headquarters.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "communicates"
+                            },
+                            {
+                                "title": "reports"
+                            },
+                            {
+                                "title": "briefs"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 16955,
+                        "title": "He is                     for the success of our work in Poland.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "responsible"
+                            },
+                            {
+                                "title": "in charge"
+                            },
+                            {
+                                "title": "responsibility"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 16957,
+                        "title": "His new                 are:",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "changes"
+                            },
+                            {
+                                "title": "contact details"
+                            },
+                            {
+                                "title": "phone numbers"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 16959,
+                        "title": "We                Peter success in his new post.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "hope"
+                            },
+                            {
+                                "title": "send"
+                            },
+                            {
+                                "title": "wish"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "question",
+            "question": {
+                "questionid": 17027,
+                "desc": "Choose the correct word to fill in the blanks below.",
+                "type": 15,
+                "title": "Vocabulary1",
+                "questionlist": [
+                    {
+                        "questionid": 17007,
+                        "title": "I can’t             your name correctly. Can you say it again?",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "pronounce"
+                            },
+                            {
+                                "title": "confirm"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17009,
+                        "title": "Juan: “Sugar?”Mina: “No,          .”",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "thanks"
+                            },
+                            {
+                                "title": "please"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17011,
+                        "title": "Budapest is          for its beautiful architecture.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "typical"
+                            },
+                            {
+                                "title": "famous"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17013,
+                        "title": "Every day is different. There’s no day in my job.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "typical"
+                            },
+                            {
+                                "title": "famous"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17015,
+                        "title": "Fadila deals with market         , so she reads a lot of market surveys.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "budget"
+                            },
+                            {
+                                "title": "research"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17017,
+                        "title": "Great! We’re on time and we’re on         .",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "budget"
+                            },
+                            {
+                                "title": "research"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17019,
+                        "title": "Juan:” How about a coffee?”Mina:” Yes,           .",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "thanks"
+                            },
+                            {
+                                "title": "please"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17021,
+                        "title": "I have to             the hotel bookings for the presenters.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "confirm"
+                            },
+                            {
+                                "title": "budget"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17023,
+                        "title": "Do you ever read our company           ? It’s quite good.",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "budget"
+                            },
+                            {
+                                "title": "newsletter"
+                            }
+                        ]
+                    },
+                    {
+                        "questionid": 17025,
+                        "title": "People in my home town like visitors a lot. They’re very         .",
+                        "type": 1,
+                        "item": [
+                            {
+                                "title": "friendly"
+                            },
+                            {
+                                "title": "famous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
