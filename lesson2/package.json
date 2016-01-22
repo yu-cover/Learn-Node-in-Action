@@ -1,0 +1,12 @@
+{
+  "name": "nodeInAction",
+  "version": "0.0.1",
+  "description": "this is my node in Action code",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  },
+  "devDependencies": {
+    "socket.io": "^0.9.17"
+  }
+}
